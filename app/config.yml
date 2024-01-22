@@ -1,0 +1,7 @@
+#environment: s3
+environment: local
+
+model:
+  filename: "sim_model__2024_01_20__13_01_41"
+  overwrite: false
+  clear_after_extract: false
