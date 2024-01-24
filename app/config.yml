@@ -2,6 +2,6 @@
 environment: local
 
 model:
-  filename: "sim_model__2024_01_20__13_01_41"
+  filename: "topic_sim_model__2024_01_23__16_57_30"
   overwrite: false
   clear_after_extract: false
